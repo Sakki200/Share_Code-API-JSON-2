@@ -1,0 +1,40 @@
+{
+  "api": [
+    {
+      "id": "53",
+      "uuid": "74438",
+      "url": "akS",
+      "code": "Je suis du code 05"
+    },
+    {
+      "id": "47",
+      "uuid": "6642",
+      "url": "Rtq",
+      "code": "Je suis du code 06"
+    },
+    {
+      "id": "1",
+      "uuid": "",
+      "url": "Rsd",
+      "code": "Je suis du code 07"
+    },
+    {
+      "id": "62",
+      "uuid": "278",
+      "url": "ZdS",
+      "code": "Je suis du code 08"
+    },
+    {
+      "id": "642",
+      "uuid": "25725",
+      "url": "Adz",
+      "code": "Je suis du code 09"
+    },
+    {
+      "id": "42",
+      "uuid": "78552",
+      "url": "dzZ",
+      "code": "Je suis du code 10"
+    }
+  ]
+}
